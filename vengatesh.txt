@@ -1,4 +1,4 @@
-<p><a href="https://www.instagram.com/vengatesh_ssrv/">Instagram</a><a href="www.linkedin.com/in/vengatesh-ssrv-811856156">LinkedIn</a></p>
+<p><a href="https://www.instagram.com/vengatesh_ssrv/">|_______Instagram________|</a><a href="www.linkedin.com/in/vengatesh-ssrv-811856156">|__________LinkedIn__________|</a></p>
 <span id="a">Vengatesh@ssrv</span>:<span id="b">~</span><span id="c">$</span> cd Vengatesh/About
 <span id="a">Vengatesh@ssrv</span>:<span id="b">~</span><span id="c">$</span> cat Vengatesh.txt<br/><br/>
 <p><strong>Carrier Objectives</strong> <br>Energetic individual with good knowledge in Database Management System, Programming and Software Development. Looking to Employ my knowledge as a fresh graduate of Computer Science Engineering to render an efficient service in the entry level software developer.</p> <br>

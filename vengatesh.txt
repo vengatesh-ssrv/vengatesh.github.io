@@ -35,5 +35,12 @@ Feel free to send me an email at<a href="vengatesh350771@gmail.com">Vengatesh350
                   * * * * * * * * * * \\// * *||  \\* * * * |_| * * * * * * * * * *
                   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
                   * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-                   
+<span id="a">Vengatesh@ssrv</span>:<span id="b">~</span><span id="c">$</span>find -interest vengatesh;
+<p>
+ Web Development
+ Data Structures
+ Database Management System
+ Machine learning 
+ IoT </p>
+
 <span id="a">Vengatesh@ssrv</span>:<span id="b">~</span><span id="c">$</span> exit();
